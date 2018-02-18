@@ -1,4 +1,4 @@
 # Aula2.1
-Will Smith
-Jackie chan
-jhonny Deep
+-Will Smith
+-Jackie chan
+-jhonny Deep
